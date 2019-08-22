@@ -1,2 +1,2 @@
 ## 前端javascript实现图片打马赛克，自定义马赛克大小，支持撤回操作，canvas在线绘图...
-### [体验demo](http://baidu.com)
+### [体验demo](https://colapp.github.io/Js-mosaic/)
